@@ -12,8 +12,8 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <div className='flex justify-center items-center my-16 md:my-10 2xl:my-6 mx-auto md:min-h-screen bg-gray-100 px-4'>
-        <div className='grid grid-cols-1 md:grid-cols-4 gap-4 md:gap-8 mx-auto md:max-w-[90%] 2xl:max-w-[60%] md:auto-rows-auto'>
+      <div className='flex justify-center items-center my-16 2xl:my-6 mx-auto md:min-h-screen bg-gray-100 px-4'>
+        <div className='grid grid-cols-1 lg:grid-cols-4 gap-4 md:gap-8 mx-auto md:max-w-[90%] 2xl:max-w-[60%] md:auto-rows-auto'>
           <div className='rounded-xl md:col-start-2 md:col-end-4 md:row-start-1 md:row-span-1 md:space-y-8 md:h-min md:flex md:flex-col md:mx-auto md:justify-center'>
             <Center />
             <div className="hidden md:col-start-2 md:col-end-4 md:row-start-2 md:flex md:flex-row md:mx-auto space-x-8 md:h-min">
