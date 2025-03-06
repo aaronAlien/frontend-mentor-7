@@ -51,8 +51,8 @@ function App() {
 
           <div className='hidden md:flex rounded-xl lg:col-start-2 lg:col-end-5'>
             <div className="lg:grid grid-cols-3 lg:justify-center lg:items-center lg:gap-8 lg:h-auto">
-              <div className="lg:col-span-1 lg:w-full lg:h-auto">
-                <SquareOne />
+              <div className="lg:col-span-1">
+                <SquareThree />
               </div>
             <div className="lg:col-span-2">
               <BottomRight />
