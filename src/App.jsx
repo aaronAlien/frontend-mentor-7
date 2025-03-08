@@ -12,8 +12,8 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <div className='flex justify-center items-center my-16 2xl:my-6 mx-auto lg:min-h-screen bg-gray-100 px-4'>
-        <div className='grid grid-cols-1 lg:grid-cols-4 gap-4 lg:gap-8 mx-auto lg:max-w-full xl:max-w-[80%] 2xl:max-w-[60%] lg:auto-rows-auto'>
+      <div className='flex justify-center items-center my-6 lg:my-auto mx-auto lg:min-h-screen bg-gray-100 px-4'>
+        <div className='grid grid-cols-1 lg:grid-cols-4 lg:my-10 gap-4 lg:gap-8 mx-auto lg:max-w-full xl:max-w-[80%] 2xl:max-w-[70%] lg:auto-rows-auto'>
           <div className='rounded-xl lg:col-start-2 lg:col-end-5 lg:row-start-1 lg:row-span-1 lg:space-y-8 lg:h-min lg:flex lg:flex-col lg:mx-auto lg:justify-center items-center'>
             <div className="lg:grid lg:grid-cols-3 lg:gap-8 lg:h-min">
               <div className="lg:col-span-2 lg:row-start-1 lg:h-min lg:row-span-1">
@@ -50,7 +50,7 @@ function App() {
           </div>
 
           <div className='hidden md:flex rounded-xl lg:col-start-2 lg:col-end-5'>
-            <div className="lg:grid grid-cols-3 lg:justify-center lg:items-center lg:gap-8 lg:h-auto">
+            <div className="lg:grid grid-cols-3 lg:justify-center lg:items-center lg:gap-8 lg:h-min">
               <div className="lg:col-span-1">
                 <SquareThree />
               </div>

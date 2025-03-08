@@ -3,7 +3,7 @@ import post from "../assets/graphics/illustration-schedule-posts.webp";
 
 const Right = () => {
   return (
-    <div className='flex flex-col justify-center mx-auto px-4 py-6 md:py-8 md:pl-8 space-y-6 md:space-y-8 bg-Purple-100 rounded-xl shadow-md overflow-hidden '>
+    <div className='flex flex-col justify-center mx-auto px-4 py-6 md:py-8 md:pl-8 space-y-6 md:space-y-8 bg-Purple-100 rounded-xl overflow-hidden '>
       <p className='font-medium text-mobile md:text-4xl md:font-semibold text-center md:text-left tracking-tighter p-0 leading-7'>
         Schedule to social media.
       </p>
