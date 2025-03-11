@@ -3,7 +3,7 @@ import schdule from "../../assets/graphics/illustration-consistent-schedule.webp
 
 const SquareTwo = () => {
   return (
-    <div className='flex flex-col p-4 pb-0 gap-4 md:gap-8 md:p-6 rounded-xl mx-auto bg-Yellow-500 overflow-hidden h-[240px] lg:h-[250px] 2xl:h-[300px]'>
+    <div className='flex flex-col p-4 pb-0 gap-4 md:gap-8 md:p-6 rounded-xl mx-auto bg-Yellow-500 overflow-hidden h-[240px] lg:h-[250px] xl:h-[300px]'>
       <p className='mr-8 font-semibold text-mobile md:text-3xl tracking-tighter leading-7'>
         Maintain a consistent posting schedule.
       </p>

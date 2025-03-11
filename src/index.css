@@ -30,5 +30,9 @@ html {
     .attribution a {
       color: hsl(228, 45%, 44%);
     }
+    .square {
+      @apply xl:h-[300px] 2xl:h-[400px];
+    }
   }
+
   
