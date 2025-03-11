@@ -50,7 +50,7 @@ function App() {
           </div>
 
           <div className='hidden md:flex rounded-xl lg:col-start-2 lg:col-end-5'>
-            <div className="lg:grid grid-cols-3 lg:justify-center lg:items-center lg:gap-8 lg:h-min">
+            <div className="lg:grid grid-cols-3 lg:justify-center lg:items-center lg:gap-8 lg:h-min xl:h-auto">
               <div className="lg:col-span-1">
                 <SquareThree />
               </div>

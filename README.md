@@ -1,5 +1,3 @@
-# WIP
-
 # Frontend Mentor - Bento grid
 
 ### The challenge

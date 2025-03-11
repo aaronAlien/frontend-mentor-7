@@ -3,7 +3,7 @@ import accounts from "../../assets/graphics/illustration-multiple-platforms.webp
 
 const SquareOne = () => {
   return (
-    <div className='flex flex-col p-4 gap-4 md:gap-12 rounded-xl overflow-hidden bg-white lg:h-[250px] 2xl:h-[300px]'>
+    <div className='flex flex-col p-4 gap-4 md:gap-12 rounded-xl overflow-hidden bg-white lg:h-[250px] xl:h-[300px]'>
 
         <img src={accounts} alt='' className='md:scale-[155%] md:pl-13 md:pt-4 bg-white' />
 
